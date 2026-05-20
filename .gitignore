@@ -1,0 +1,15 @@
+# secrets — never push these
+.env
+.env.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# node
+node_modules/
+.next/
+
+# os files
+.DS_Store
